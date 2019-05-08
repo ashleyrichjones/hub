@@ -1,5 +1,5 @@
 browser full all
-browser position chr1:10664321-10759974
+browser position chr1:1-124000000
 
 track CASEvCTRL_wiggle
 container multiWig
